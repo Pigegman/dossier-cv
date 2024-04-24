@@ -4,6 +4,7 @@ body {
   width: 100%;
   box-sizing: border-box;
   flex-wrap: wrap;
+  font-family:'Courier New', Courier, monospace;
 }
 header {
   border-top: solid;
@@ -27,7 +28,8 @@ img {
 
 .profil {
   flex: 1 1 49%;
-  border-right: solid;
+  border-right: solid ;
+  margin-left: 10px;
 }
 
 .parcours {
